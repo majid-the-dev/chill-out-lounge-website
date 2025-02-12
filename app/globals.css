@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -112,6 +113,12 @@
   box-shadow: rgba(0, 0, 0, .3) 2px 8px 4px -6px;
 }
 
+.cursive {
+  font-family: "Ballet", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
 .nav {
   font-family: "Oswald", serif;
   font-optical-sizing: auto;
@@ -187,7 +194,7 @@
 
 
 
-.container{
+.container {
   width: 400px;
   height: 220px;
   position: relative;

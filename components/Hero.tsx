@@ -1,6 +1,6 @@
 import type React from "react";
 import Image from "next/image";
-import BackgroundImage from "@/public/assets/asset-1.jpg";
+import BackgroundImage from "@/public/assets/asset-9.jpg";
 // import Fork from "@/public/assets/fork-icon.png";
 // import { RxArrowDown } from "react-icons/rx";
 import { PiBowlFood } from "react-icons/pi";
@@ -125,7 +125,7 @@ const Hero: React.FC<HeroProps> = ({ onScrollClick }) => {
         src={BackgroundImage || "/placeholder.svg"}
         layout="fill"
         objectFit="cover"
-        className="opacity-15"
+        className=""
       />
       <div className="relative z-10 flex flex-col items-center">
         <div className="relative mt-4 md:mt-12">
@@ -159,7 +159,7 @@ const Hero: React.FC<HeroProps> = ({ onScrollClick }) => {
           className="heading flex items-center gap-2 text-white/90 text-sm sm:text-base font-bold uppercase mt-6"
         >
           {/* <BsClockFill size={14} /> */}
-          10AM - 9PM DAILY
+          1PM - 12AM DAILY
         </div>
       </div>
       <button

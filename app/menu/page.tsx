@@ -823,6 +823,92 @@ const Page = () => {
               </p>
             </div>
           </div>
+
+          <div className="space-y-6 mt-28">
+            <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
+              Cocktail
+            </h1>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">PINA COLADA</p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                VIERGIN COLADA
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 4000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">LONG ISLAND</p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                TEQUILA SUNRISE
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 4,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                VIRGIN SUNSET
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 3,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                FROZEN STRAWBERRY MAGARITTA
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                CLASSIC MAGARITTA
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">CHAPMAN</p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 3,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">BLUE LAGOON</p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">BLUE HAWAII</p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,000
+              </p>
+            </div>
+          </div>
         </div>
       </div>
     </div>

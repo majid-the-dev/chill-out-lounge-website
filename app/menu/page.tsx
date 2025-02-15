@@ -909,6 +909,940 @@ const Page = () => {
               </p>
             </div>
           </div>
+
+          <div className="space-y-6 mt-28">
+            <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
+              Spirit mixed drinks & bitters
+            </h1>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Hunter&apos;s dry 330ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 2,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Hunter&apos;s gold 330ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 2,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Orijin bitters herbal drink 20cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 2,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Orijin bitters spirit drink 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 12,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Orijin spirit mixed drink 60cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 2,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">Ace bitters</p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 1,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Odogwu bitters
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 1,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Smirnoff ice bottle 300ml/330ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 1,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Smirnoff ice double black with Guarana bottle 300ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 1,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Smirnoff ice spirit mixed drink 60cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 1,500
+              </p>
+            </div>
+          </div>
+
+          <div className="space-y-6 mt-28">
+            <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
+              Red Wines
+            </h1>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                4th street sweet red 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 12,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Agor liquor red wine 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 15,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Apothic red 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 20,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                B & G Barton & Guestier Merlot 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 12,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Carlo rossi california red 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 15,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Cartier premium red wine 75cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 12,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Declan de espana sweet red wine 37.5cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 10,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Dorado spanish red wine 75cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 12,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Drostdy hot red claret 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 12,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Eisberg cabernet sauvignon 75cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 15,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Escudo rojo chile red wine 75cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 35,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Toma red wine 75cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 10,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Thomas barton reserve bordeaux wine 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 25,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Dominion spanish red wine
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 8,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Rich lady red wine
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 8,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Drostdy hof red wine
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Castillo red wine
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 10,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Carlo rossi red wine
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 10,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Four cousins red wine
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 10,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                4th street red wine
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 10,000
+              </p>
+            </div>
+          </div>
+
+          <div className="space-y-6 mt-28">
+            <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
+              White Wines
+            </h1>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Castillo de espana white wine 75cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 10,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Four cousins natural sweet white 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 15,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Castillo white wine
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 10,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Four cousins white wine
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 10,000
+              </p>
+            </div>
+          </div>
+
+          <div className="space-y-6 mt-28">
+            <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
+              Sparkling & champagne
+            </h1>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Andre brut 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 15,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Andre rose 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 15,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Martini sparkling rose 75cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 25,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Martini sparkling brut 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 25,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Moet & Chandon ice imperial 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 220,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Moet & Chandon imperial brut 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 150,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Moet & Chandon nectar imperial blanc champagne 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 170,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Moet & Chandon nectar imperial rose champagne 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 170,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Veuve clicquot champagne brut 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 180,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Veuve clicquot champagne rose wine 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 220,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Veuve du vernay ice rose wine 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 20,000
+              </p>
+            </div>
+          </div>
+
+          <div className="space-y-6 mt-28">
+            <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
+              Shots
+            </h1>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Tequila shot
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 2,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Hennessy vs shot
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 3,500
+              </p>
+            </div>
+          </div>
+
+          <div className="space-y-6 mt-28">
+            <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
+              Cream
+            </h1>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">Barleys big</p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 25,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Barleys small
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 10,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Best cream big
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 15,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Best cream small
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 7,000
+              </p>
+            </div>
+          </div>
+
+          <div className="space-y-6 mt-28">
+            <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
+              Whiskies
+            </h1>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Best classic whisky 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 12,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Glenfiddich 12 years malt scotch whisky 700ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 85,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Glenfiddich 15 years single malt whisky 700ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 120,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Glenfiddich 18 years malt scotch whisky 700ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 200,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Glenfiddich 21 years scotch whisky
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 400,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Jack daniels tennessee honey whiskey 70cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 35,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Jack daniels whiskey 70cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 40,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Jameson black barrel irish whiskey 700ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 55,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Jameson irish whiskey 700ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 40,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Johnnie walker black label scotch whiskey 70cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 55,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Johnnie walker blue label whiskey 700ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 300,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Johnnie walker gold label reserve 70cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 75,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Johnnie walker red label scotch whiskey 70cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 25,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Monkey shoulder malt scotch whiskey 700ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 60,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                The famous grouse 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 25,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Wild turkey 101 75cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 25,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                William Lawson&apos;s scotch whiskey 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 25,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Jameson small
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 7,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Best whiskey small
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                William Lawson&apos;s small
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 7,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Imperial blue small
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">Jekonmo</p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 1,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">Jameson Big</p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 35,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                William Lawson&apos;s Big
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 35,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Best whiskey Big
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 15,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Campari small
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Hennessy VS big
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 80,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Jack Daniels Big
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 65,000
+              </p>
+            </div>
+          </div>
+
+          <div className="space-y-6 mt-28">
+            <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
+              Cognacs & brandy
+            </h1>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Hennessy V.S.O.P Cognac wine 70cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 170,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Hennessy VS Cognac 70cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 95,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Hennessy XO 70cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 500,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Martell blue swift 750ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 150,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Martell VS single distillery fine cognac 70cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 75,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Remy martin 1738 70cl/75cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 120,000
+              </p>
+            </div>
+          </div>
+
+          <div className="space-y-6 mt-28">
+            <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
+              Vodkas
+            </h1>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Bacardi carta blanca 75cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 25,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Ciroc red berry vodka 1lt
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 45,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Skyy infusion citrus vodka 1l
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 20,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Smirnoff intense chocolate vodka 75cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 10,000
+              </p>
+            </div>
+          </div>
+
+          <div className="space-y-6 mt-28">
+            <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
+              Rums & Liquors
+            </h1>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Amarula marula fruit cream 375ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 9,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Amarula marula fruit cream 70cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 15,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Bacardi gold rum 70cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 30,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Baileys the original irish cream 700ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 35,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Jagermeister herbal liquor 70cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 25,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Kuemmerling herbal liquor 35% vol 0.7l
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 15,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Sierra tequila blanco 70cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 25,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Sierra tequila reposado 70cl
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 25,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Silver patron tequila 700ml
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 70,000
+              </p>
+            </div>
+          </div>
         </div>
       </div>
     </div>

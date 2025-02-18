@@ -166,6 +166,87 @@ const Page = () => {
                 &#8358; 6,000
               </p>
             </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Poundo and egusi + goat meat
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Poundo and egusi + beef
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 4,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Poundo and egusi + chicken
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Poundo and vegetable + goat meat
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Poundo and vegetable + beef
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 4,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Poundo and vegetable + chicken
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Poundo and ogbono + chicken
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Poundo and ogbono + goat meat
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Poundo and ogbono + beef
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 4,000
+              </p>
+            </div>
           </div>
 
           <div className="space-y-6 mt-28">
@@ -916,11 +997,11 @@ const Page = () => {
             </h1>
             <div className="flex items-center justify-between uppercase">
               <p className="text-white/90 text-sm font-semibold">
-                Hunter&apos;s dry 330ml
+                Flirt vodka
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 2,000
+                &#8358; 14,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">

@@ -27,17 +27,19 @@ const Page = () => {
           </h1>
         </div>
         <div className="w-full max-w-xl mx-auto mt-20 px-5">
+          
+          {/* Main course */}
           <div className="space-y-6">
             <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
               Main course
             </h1>
             <div className="flex items-center justify-between uppercase">
               <p className="text-white/90 text-sm font-semibold">
-                White rice and stew beef
+                White rice and beef
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 4,000
+                &#8358; 6,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -46,7 +48,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 4,000
+                &#8358; 6,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -55,7 +57,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 4,000
+                &#8358; 6,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -64,7 +66,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 6,000
+                &#8358; 7,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -73,7 +75,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 5,000
+                &#8358; 8,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -82,7 +84,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 6,000
+                &#8358; 7,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -91,7 +93,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 5,000
+                &#8358; 8,500
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -100,7 +102,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 6,000
+                &#8358; 7,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -109,7 +111,79 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
+                &#8358; 8,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Native rice and beef
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Native rice and chicken
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 7,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Native rice and goat meat
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 8,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Coconut rice and beef
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Coconut rice and chicken
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 7,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Coconut rice and goat meat
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 8,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Eba and vegetable + beef
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
                 &#8358; 5,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Eba and ogbono + goat meat
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 7,500
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -118,7 +192,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 4,000
+                &#8358; 6,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -127,7 +201,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 5,000
+                &#8358; 8,500
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -136,12 +210,12 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 6,000
+                &#8358; 6,500
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
               <p className="text-white/90 text-sm font-semibold">
-                Semo and egusi + goat meat
+                Eba and edikaikong + beef
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
@@ -150,11 +224,56 @@ const Page = () => {
             </div>
             <div className="flex items-center justify-between uppercase">
               <p className="text-white/90 text-sm font-semibold">
+                Eba and edikaikong + chicken
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Eba and edikaikong + goat meat
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 7,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Semo and oha + beef
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Semo and oha + chicken
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Semo and egusi + goat meat
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 8,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
                 Semo and egusi + beef
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 4,000
+                &#8358; 6,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -163,7 +282,79 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
+                &#8358; 7,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Semo and vegetable + beef
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
                 &#8358; 6,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Semo and ogbono + goat meat
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 8,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Semo and edikaikong + beef
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Semo and edikaikong + chicken
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 7,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Semo and edikaikong + goat meat
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 8,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Poundo and edikaikong + beef
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Poundo and edikaikong + chicken
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 7,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Poundo and edikaikong + goat meat
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 8,500
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -190,7 +381,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 6,000
+                &#8358; 7,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -208,7 +399,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 4,000
+                &#8358; 6,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -235,7 +426,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 5,000
+                &#8358; 8,500
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -247,8 +438,36 @@ const Page = () => {
                 &#8358; 4,000
               </p>
             </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Poundo and oha + beef
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Poundo and oha + chicken
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 7,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Poundo and oha + goat meat
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 8,500
+              </p>
+            </div>
           </div>
 
+          {/* Extras */}
           <div className="space-y-6 mt-28">
             <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
               Extra
@@ -257,7 +476,7 @@ const Page = () => {
               <p className="text-white/90 text-sm font-semibold">Rice</p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 2,000
+                &#8358; 1,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -271,28 +490,21 @@ const Page = () => {
               <p className="text-white/90 text-sm font-semibold">Chicken</p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 3,000
+                &#8358; 4,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
               <p className="text-white/90 text-sm font-semibold">Fish</p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 4,000
-              </p>
-            </div>
-            <div className="flex items-center justify-between uppercase">
-              <p className="text-white/90 text-sm font-semibold">Turkey</p>
-
-              <p className="text-white/90 text-sm font-semibold">
-                &#8358; 4,000
+                &#8358; 5,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
               <p className="text-white/90 text-sm font-semibold">Beef</p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 2,000
+                &#8358; 3,500
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -302,8 +514,16 @@ const Page = () => {
                 &#8358; 4,000
               </p>
             </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">Extra swallow</p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 1,000
+              </p>
+            </div>
           </div>
 
+          {/* Finger food */}
           <div className="space-y-6 mt-28">
             <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
               Finger Food
@@ -335,11 +555,65 @@ const Page = () => {
             </div>
             <div className="flex items-center justify-between uppercase">
               <p className="text-white/90 text-sm font-semibold">
+                Goat meat pepper soup and yam
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Assorted pepper soup and yam
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Chicken pepper soup and yam
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Cowtail pepper soup and yam
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 6,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
                 Turkey pepper soup and yam
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
                 &#8358; 5,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Chicken pepper soup
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Cowtail pepper soup
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -357,7 +631,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 3,000
+                &#8358; 5,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -379,30 +653,85 @@ const Page = () => {
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Croaker fish pepper soup and yam
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 11,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Peppered goat meat
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Peppered chicken
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 5,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Peppered beef
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 3,500
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Peppered ponmo
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 2,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
               <p className="text-white/90 text-sm font-semibold">Isiewu</p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 6,000
+                &#8358; 9,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
               <p className="text-white/90 text-sm font-semibold">Nkwobi</p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 4,000
+                &#8358; 3,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
               <p className="text-white/90 text-sm font-semibold">
-                Indomie and eggs
+                Noodles and egg
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
                 &#8358; 2,500
               </p>
             </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Spaghetti and chicken
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 7,000
+              </p>
+            </div>
           </div>
 
+          {/* Grill and suya */}
           <div className="space-y-6 mt-28">
             <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
               Grill and Suya
@@ -411,7 +740,7 @@ const Page = () => {
               <p className="text-white/90 text-sm font-semibold">Ram suya</p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 2,000
+                &#8358; 3,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -419,7 +748,7 @@ const Page = () => {
                 Beef suya small
               </p>
 
-              <p className="text-white/90 text-sm font-semibold">&#8358; 500</p>
+              <p className="text-white/90 text-sm font-semibold">&#8358; 1,500</p>
             </div>
             <div className="flex items-center justify-between uppercase">
               <p className="text-white/90 text-sm font-semibold">
@@ -427,7 +756,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,000
+                &#8358; 2,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -464,22 +793,30 @@ const Page = () => {
             </div>
           </div>
 
+          {/* Barbeque */}
           <div className="space-y-6 mt-28">
             <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
               Barbeque
             </h1>
             <div className="flex items-center justify-between uppercase">
-              <p className="text-white/90 text-sm font-semibold">BBQ Fish</p>
+              <p className="text-white/90 text-sm font-semibold">BBQ fish big</p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 10,000
+                &#8358; 25,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">BBQ fish small</p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 12,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
               <p className="text-white/90 text-sm font-semibold">BBQ Chicken</p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 3,000
+                &#8358; 5,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -509,6 +846,7 @@ const Page = () => {
             </div>
           </div>
 
+          {/* Beers */}
           <div className="space-y-6 mt-28">
             <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
               Beers
@@ -519,7 +857,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,000
+                &#8358; 1,300
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -528,7 +866,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,000
+                &#8358; 1,200
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -537,7 +875,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,000
+                &#8358; 1,200
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -546,7 +884,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,000
+                &#8358; 1,200
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -555,7 +893,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,000
+                &#8358; 1,200
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -564,7 +902,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,500
+                &#8358; 1,600
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -582,7 +920,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,000
+                &#8358; 1,200
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -591,16 +929,16 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,500
+                &#8358; 1,600
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
               <p className="text-white/90 text-sm font-semibold">
-                Guilder ultimate beer bottle 60cl
+                Gulder ultimate beer bottle 60cl
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,000
+                &#8358; 1,300
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -609,7 +947,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,500
+                &#8358; 1,600
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -618,7 +956,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,000
+                &#8358; 1,300
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -627,7 +965,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,000
+                &#8358; 1,200
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -636,7 +974,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,000
+                &#8358; 1,200
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -645,7 +983,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,000
+                &#8358; 1,200
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -654,7 +992,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,500
+                &#8358; 1,600
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -670,11 +1008,21 @@ const Page = () => {
               <p className="text-white/90 text-sm font-semibold">Legend big</p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,500
+                &#8358; 1,600
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Big Smirnoff
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 1,600
               </p>
             </div>
           </div>
 
+          {/* Soft drinks and water */}
           <div className="space-y-6 mt-28">
             <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
               Soft Drinks & Water
@@ -813,7 +1161,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 2,000
+                &#8358; 3,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -837,7 +1185,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 3,000
+                &#8358; 2,500
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -873,7 +1221,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 2,000
+                &#8358; 2,500
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -900,7 +1248,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,500
+                &#8358; 1,000
               </p>
             </div>
           </div>
@@ -996,9 +1344,7 @@ const Page = () => {
               Spirit mixed drinks & bitters
             </h1>
             <div className="flex items-center justify-between uppercase">
-              <p className="text-white/90 text-sm font-semibold">
-                Flirt vodka
-              </p>
+              <p className="text-white/90 text-sm font-semibold">Flirt vodka</p>
 
               <p className="text-white/90 text-sm font-semibold">
                 &#8358; 14,000
@@ -1062,7 +1408,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,000
+                &#8358; 1,200
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -1071,7 +1417,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 1,000
+                &#8358; 1,200
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -1226,7 +1572,7 @@ const Page = () => {
             </div>
             <div className="flex items-center justify-between uppercase">
               <p className="text-white/90 text-sm font-semibold">
-                Drostdy hof red wine
+                Drostdy hot red wine
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
@@ -1239,7 +1585,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 10,000
+                &#8358; 12,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -1248,7 +1594,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 10,000
+                &#8358; 12,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -1257,7 +1603,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 10,000
+                &#8358; 12,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -1266,7 +1612,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 10,000
+                &#8358; 12,000
               </p>
             </div>
           </div>
@@ -1281,7 +1627,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 10,000
+                &#8358; 12,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -1308,7 +1654,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 10,000
+                &#8358; 12,000
               </p>
             </div>
           </div>
@@ -1418,6 +1764,7 @@ const Page = () => {
             </div>
           </div>
 
+          {/* Shots */}
           <div className="space-y-6 mt-28">
             <h1 className="cursive text-yellow-400 text-4xl md:text-5xl ml-0 md:-ml-10 mb-4">
               Shots
@@ -1428,7 +1775,34 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 2,500
+                &#8358; 2,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Gordons shot
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 2,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Bacardi shot
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 2,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">
+                Absolute shot
+              </p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 2,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -1468,7 +1842,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 15,000
+                &#8358; 12,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -1477,7 +1851,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 7,000
+                &#8358; 4,000
               </p>
             </div>
           </div>
@@ -1654,7 +2028,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 5,000
+                &#8358; 3,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -1663,7 +2037,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 7,000
+                &#8358; 8,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -1695,7 +2069,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 35,000
+                &#8358; 25,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -1704,7 +2078,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 15,000
+                &#8358; 12,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -1713,7 +2087,14 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 5,000
+                &#8358; 8,000
+              </p>
+            </div>
+            <div className="flex items-center justify-between uppercase">
+              <p className="text-white/90 text-sm font-semibold">Campari big</p>
+
+              <p className="text-white/90 text-sm font-semibold">
+                &#8358; 30,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
@@ -1782,7 +2163,7 @@ const Page = () => {
               </p>
 
               <p className="text-white/90 text-sm font-semibold">
-                &#8358; 75,000
+                &#8358; 70,000
               </p>
             </div>
             <div className="flex items-center justify-between uppercase">
